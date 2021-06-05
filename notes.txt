@@ -1,0 +1,6 @@
+1-) Its not a problem but, class names are should be start uppercase.
+2-) Inherit class Staff must have to public Access specifier. Beacause if you want to reach any variable which defined in class to another class.
+3-) This Lecturer class is defined from 2 class this class names are Staff and Manger; Lecturer class has syntax error ';'.
+4-) Class needs to constructor for defining varables default value.
+
+4-) In Lecturer have get method but this methods parameters not defined. (char name[20])
